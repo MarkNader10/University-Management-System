@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
 <img src="https://img.shields.io/badge/Modern-Academy-red?style=for-the-badge">
 <br>
+<br>
 <img src="screenshots/MainPage.PNG" width="850">
 <br>
 A Java desktop application developed as a university project for managing students, instructors, departments, courses, and their relationships using Microsoft SQL Server.
@@ -242,7 +243,7 @@ DBConnection.java
 
 <a href="video/UniversityManagementSystem.mp4">
 
-<img src="screenshots/video.png" width="800">
+<img src="screenshots/video.PNG" width="800">
 
 </a>
 
@@ -253,7 +254,9 @@ DBConnection.java
 ▶️ Click the image above to watch the project video.
 
 </p>
+
 ---
+
 # 👨‍💻 My Contribution
 
 This project was developed as a **team project (4 members)**.
